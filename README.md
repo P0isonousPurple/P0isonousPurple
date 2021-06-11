@@ -1,9 +1,9 @@
 # Hi, I’m P0isonousPurple :)
 - 👀 I’m interested in Games programming and art. Also web development
 - 🌱 I’m currently learning C# on the SAE Institute in Berin, Germany
-- 💞️ I’m looking to collaborate on games and web projects :)
+- 💞️ I’m looking forward to collaborate on games and web projects :)
 - 📫 How to reach me:
-  - Discord(fast response): PoisonousPurple#6870
+  - Discord(fast response): PoisonousPurple#0815
   - E-Mail: otto-spaude@gmx.de
   - Twitter: @twitchpoisonous
 
