@@ -1,4 +1,4 @@
-# Hi, I’m P0isonousPurple :)
+# Hi, I’m Poisonous Purple :)
 
 - 👀 I’m interested in Games programming and art. Also web development
 - 🌱 I’m currently learning C# on the SAE Institute in Berin, Germany
