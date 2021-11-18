@@ -10,7 +10,7 @@
 
 # Current Projects
 
-<img src="https://otto-spaude.tech/gh-media/dynii_banner.png" alt="DynII" style="zoom:50%;" />
+<img src="https://otto-spaude.tech/gh-media/dynii_banner-02.png" alt="DynII" style="zoom:50%;" />
 
 Dynamic Input Icons (Short: DynII) is a Unity Package that switches input prompts automatically for you based on the current control scheme. [Repo](https://github.com/P0isonousPurple/DynII)
 
