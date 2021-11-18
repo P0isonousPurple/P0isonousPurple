@@ -12,7 +12,7 @@
 
 <img src="https://otto-spaude.tech/gh-media/dynii_banner.png" alt="DynII" style="zoom:50%;" />
 
-Dynamic Input Icons (Short: DynII) is a Unity Package that switches input prompts automatically for you based on the current control scheme.
+Dynamic Input Icons (Short: DynII) is a Unity Package that switches input prompts automatically for you based on the current control scheme. [Repo](https://github.com/P0isonousPurple/DynII)
 
 <!-- 
 <img src="https://otto-spaude.tech/gh-media/sae-le-gh.png" alt="SAE Events" style="zoom:50%;" />
