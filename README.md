@@ -8,15 +8,3 @@
   - E-Mail: otto-spaude@gmx.de
   - Twitter: @twitchpoisonous
 
-# Current Projects
-
-<img src="https://otto-spaude.me/gh-media/dynii_banner_02.png" alt="DynII" style="zoom:50%;" />
-
-Dynamic Input Icons (Short: DynII) is a Unity Package that switches input prompts automatically for you based on the current control scheme. [Repo](https://github.com/P0isonousPurple/DynII)
-
-<!-- 
-<img src="https://otto-spaude.me/gh-media/sae-le-gh.png" alt="SAE Events" style="zoom:50%;" />
-
-<img src="https://otto-spaude.me/gh-media/chiefs-gh.png" alt="SAE Events" style="zoom:50%;" />
-
--->
